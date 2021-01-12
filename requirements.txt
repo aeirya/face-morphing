@@ -1,0 +1,10 @@
+# minimal install
+opencv-python
+numpy
+
+# for facial landmark detection
+imutils
+dlib
+
+# for Delaunay triangulation
+scipy
